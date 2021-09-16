@@ -7,8 +7,8 @@ use App\Http\Requests\countryRequest;
 use App\Models\Country;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Cache;
-use Illuminate\Support\Facades\DB;
-use Illuminate\Support\Facades\Schema;
+
+
 
 class CountryController extends Controller
 {
