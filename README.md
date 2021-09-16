@@ -11,6 +11,8 @@
 
 * run `composer install`
 * run `npm install && npm run dev`
+* Add file `.env` 
+* run `php artisan key:generate`
 * run `php artisan migrate`
 * run `php artisan db:seed`
 * run `php artisan serve`
