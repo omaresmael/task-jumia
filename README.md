@@ -1,13 +1,13 @@
-#Task Jumia
+# Task Jumia
 
-##requirements
+## Requirements
 
 * [php8](https://www.php.net/downloads.php)
 * [Composer](https://getcomposer.org/download/)
 * [Node](https://nodejs.org/en/download/)
 
 
-##Usage
+## Usage
 
 * run `composer install`
 * run `npm install && npm run dev`
