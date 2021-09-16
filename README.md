@@ -7,7 +7,7 @@
 * [Node](https://nodejs.org/en/download/)
 
 
-## Usage
+## Installation
 
 * run `composer install`
 * run `npm install && npm run dev`
